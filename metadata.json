@@ -1,0 +1,8 @@
+
+{
+  "name": "REHCAPS - Smart Finance Hub",
+  "description": "A premium finance SaaS with manual SMS/WhatsApp deep-linking, professional PDF receipt generation, and a streamlined transaction engine.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
